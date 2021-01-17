@@ -57,7 +57,7 @@ And Currently I Persued my MCA from Dr. D. Y. Patil Institute Of Managemet And R
 
 ### Tribe-Nation Web-App(Smart India Hackathon)
 
--This project is developed for the Smart India Hackathon and problem statement is given by the CDK Global (i.e. Developed E-marketplace for the tribe People where they can sell their product easily).
+- This project is developed for the Smart India Hackathon and problem statement is given by the CDK Global (i.e. Developed E-marketplace for the tribe People where they can sell their product easily).
 
 
 ## CERTIFICATE AND ACHIEVEMENTS
